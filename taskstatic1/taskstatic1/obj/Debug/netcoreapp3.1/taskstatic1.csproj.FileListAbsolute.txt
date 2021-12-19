@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\bin\Debug\netcoreapp3.1\taskstatic1.exe
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\bin\Debug\netcoreapp3.1\taskstatic1.deps.json
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\bin\Debug\netcoreapp3.1\taskstatic1.runtimeconfig.json
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\bin\Debug\netcoreapp3.1\taskstatic1.runtimeconfig.dev.json
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\bin\Debug\netcoreapp3.1\taskstatic1.dll
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\bin\Debug\netcoreapp3.1\taskstatic1.pdb
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\obj\Debug\netcoreapp3.1\taskstatic1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\obj\Debug\netcoreapp3.1\taskstatic1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\obj\Debug\netcoreapp3.1\taskstatic1.AssemblyInfo.cs
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\obj\Debug\netcoreapp3.1\taskstatic1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\obj\Debug\netcoreapp3.1\taskstatic1.dll
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\obj\Debug\netcoreapp3.1\taskstatic1.pdb
+C:\Users\user\Desktop\taskstatic\taskstatic1\taskstatic1\obj\Debug\netcoreapp3.1\taskstatic1.genruntimeconfig.cache

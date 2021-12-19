@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\bin\Debug\netcoreapp3.1\TaskStatic2.exe
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\bin\Debug\netcoreapp3.1\TaskStatic2.deps.json
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\bin\Debug\netcoreapp3.1\TaskStatic2.runtimeconfig.json
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\bin\Debug\netcoreapp3.1\TaskStatic2.runtimeconfig.dev.json
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\bin\Debug\netcoreapp3.1\TaskStatic2.dll
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\bin\Debug\netcoreapp3.1\TaskStatic2.pdb
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\obj\Debug\netcoreapp3.1\TaskStatic2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\obj\Debug\netcoreapp3.1\TaskStatic2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\obj\Debug\netcoreapp3.1\TaskStatic2.AssemblyInfo.cs
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\obj\Debug\netcoreapp3.1\TaskStatic2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\obj\Debug\netcoreapp3.1\TaskStatic2.dll
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\obj\Debug\netcoreapp3.1\TaskStatic2.pdb
+C:\Users\user\Desktop\taskstatic\TaskStatic2\TaskStatic2\obj\Debug\netcoreapp3.1\TaskStatic2.genruntimeconfig.cache
